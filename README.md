@@ -1,5 +1,5 @@
 # SnakeNeuralNet
-A genetic neural network that learns to plays snake
+A genetic neural network that learns to play snake
 
 video explanation and demonstration: https://youtu.be/N6v2cx8xjTY
 
